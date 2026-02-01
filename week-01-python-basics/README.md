@@ -1,7 +1,7 @@
 ACTIVITY 1: Make a Character Move (20 minutes)
 Step-by-Step Instructions:
 
-Step 1: Create Your Scratch Account & Open Project
+**Step 1: Create Your Scratch Account & Open Project**
 
 Go to https://scratch.mit.edu/
 Click "Sign Up" (top right)
