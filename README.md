@@ -47,3 +47,9 @@ Students will:
 ---
 
 ## 📂 Repository Structure
+week-01-python-basics/
+week-02-data-handling/
+week-03-visualization/
+week-04-ml-basics/
+week-08-deep-learning/
+capstone-project/
